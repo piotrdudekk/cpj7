@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=make\ model\ frequency\ cacheSize
+comment1.target=Processor(java.lang.String,\ java.lang.String,\ float,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ compile()
+numComments=4

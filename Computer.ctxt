@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=isOn\ ram\ os\ storage\ socket\ make\ model\ frequency\ cacheSize
+comment1.target=Computer(boolean,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=void\ turnOn()
+comment4.params=
+comment4.target=void\ turnOff()
+comment5.params=
+comment5.target=java.lang.String\ showStatus()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

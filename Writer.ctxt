@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Writer
+comment1.params=imie\ nazwisko\ wydawnictwo
+comment1.target=Writer(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=wydawnictwo2
+comment3.target=void\ zmienWydawnictwo(java.lang.String)
+numComments=4
